@@ -1,0 +1,22 @@
+VERSION 08/01/2021 11:07:54 PM
+FIG #C:\Users\sohail\Documents\microwind\pmos.MSK
+BB(-6,-10,85,41)
+SIMU #10.00
+REC(-6,-10,91,51,NW)
+REC(45,10,30,15,DP)
+REC(0,10,25,15,DP)
+REC(11,17,2,2,CO)
+REC(61,17,2,2,CO)
+REC(25,0,20,35,PO)
+REC(60,16,4,4,ME)
+REC(10,16,4,4,ME)
+REC(25,10,20,15,DP)
+TITLE 79 37  #Vdd
+$1 1000 0 
+TITLE 36 31  #gate
+$c 4167 0 1.9000 2.0000 3.9000 4.0000 
+TITLE 13 18  #drain
+$c 4167 0 0.9000 1.0000 1.9000 2.0000 
+TITLE 64 18  #vout
+$v 1000 0 
+FFIG C:\Users\sohail\Documents\microwind\pmos.MSK

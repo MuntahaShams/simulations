@@ -1,0 +1,19 @@
+VERSION 08/01/2021 9:38:04 PM
+FIG #C:\Users\sohail\Documents\microwind\nmos.MSK
+BB(5,5,65,50)
+SIMU #10.00
+REC(45,19,20,16,DN)
+REC(5,19,20,16,DN)
+REC(11,27,2,2,CO)
+REC(56,27,2,2,CO)
+REC(25,5,20,45,PO)
+REC(55,26,4,4,ME)
+REC(10,26,4,4,ME)
+REC(25,19,20,16,DN)
+TITLE 34 45  #gate
+$c 4167 0 3.9000 4.0000 7.9000 8.0000 
+TITLE 11 28  #drain
+$c 4167 0 0.4000 0.5000 0.9000 1.0000 
+TITLE 57 28  #source
+$v 1000 0 
+FFIG C:\Users\sohail\Documents\microwind\nmos.MSK
